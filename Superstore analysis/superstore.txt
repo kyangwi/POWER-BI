@@ -1,0 +1,3 @@
+background - #E2E8EA(40% TRASNPARENT)
+Positive - #58b381
+Negative - #EF476F
